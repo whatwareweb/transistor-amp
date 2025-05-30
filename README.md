@@ -21,7 +21,7 @@ This amplifier is based on the highly popular LM386 op-amp chip, although it has
 | 5mm terminal block  | 1     | Optional                    |
 | NPN transistor      | 5     | I used 2N3904               |
 | PNP transistor      | 4     | I used 2N3906               |
-| 10k potentiomter    | 1     |                             |
+| 10k potentiometer   | 1     |                             |
 | 10k resistor        | 2     |                             |
 | 1.5k resistor       | 1     |                             |
 | 15k resistor        | 1     |                             |
