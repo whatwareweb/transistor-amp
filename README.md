@@ -43,3 +43,6 @@ This amplifier is based on the highly popular LM386 op-amp chip, although it has
 
 ### Simulation results
 ![image](https://github.com/user-attachments/assets/1c8907fe-2911-48de-a649-2635707a95bd)
+
+
+slack username: `@whatware`
