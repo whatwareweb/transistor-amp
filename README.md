@@ -10,6 +10,7 @@ This amplifier is based on the highly popular LM386 op-amp chip, although it has
  - Small size, crammed in just over 3 square inches
  - Decent performance in SPICE simulation
    - higher THD than the original IC but not too bad
+ - 250mW power output (yeah that's pretty low 😭)
 
 ### BOM
 | Part                | Qty   | Notes                       |
